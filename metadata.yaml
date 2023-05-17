@@ -1,0 +1,43 @@
+_repo: Abu-Seif-b-Aventyrsroman-fran-Roda-Havet-och-Mekka_70770
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lange, Kurt
+    alias: Kerfve, Axel
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '52977'
+    url: http://www.gutenberg.org/2009/agents/52977
+    wikipedia: https://sv.wikipedia.org/wiki/Axel_Kerfve
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - May, Karl Friedrich
+    - May, Carl
+    - Linden, E. von
+    - Hohenthal, Karl
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_May
+    - https://de.wikipedia.org/wiki/Karl_May
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70770'
+language: sv
+pgterms:marc905: 20230515083524may
+pgterms:marc906: '1913'
+pgterms:marc907: SE
+production_note: Jari Koivisto
+publication_note: '  $aSweden :$bKommanditbolaget Chelius & Co., $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Abu-Seif : $b Äventyrsroman från Röda Havet och Mekka'
+url: http://www.gutenberg.org/ebooks/70770
