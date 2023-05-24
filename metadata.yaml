@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '52977'
     url: http://www.gutenberg.org/2009/agents/52977
     wikipedia: https://sv.wikipedia.org/wiki/Axel_Kerfve
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: May, Karl
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Karl_May
     - https://de.wikipedia.org/wiki/Karl_May
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70770#Abu-Seif-b-Aventyrsroman-fran-Roda-Havet-och-Mekka
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70770'
